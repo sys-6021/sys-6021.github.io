@@ -15,6 +15,13 @@
   margin:0px;
 }
 
+.due{
+  font-size:0.94em;
+  padding:0px;
+  background-color: #F9DADA !important;
+  margin:0px;
+}
+
 .exam{
   font-size:0.94em;
   padding:0px;
